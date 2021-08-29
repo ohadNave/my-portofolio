@@ -15,6 +15,8 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             Welcome to my personal website!
             <br></br>I'm an Information Systems & Software Engineering graduate from Ben-Gurion University of the negev.
+            <br></br>Highly motivated and eager to learn and improve in the field of software development.
+            <br></br>Looking to integrate as a junior software developer in a valuable organization.
             <br></br>Explore my portofolio and check out some of my academic and spare time projects.
           </p>
           
