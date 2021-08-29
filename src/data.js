@@ -16,21 +16,21 @@ export const projects = [
     subtitle: "Audio Loop Machine",
     description:"Play different audio samples in a synchronized manner, record & replay session.responsive for desktop and mobile",
     image: "./audio-loop-gif.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://moveo-demo-app.herokuapp.com/",
   },
   {
     title: "Java",
     subtitle: "Search Engine",
     description: "Includes parsing and indexing 500k documents and retrieve the most relevants based on the user query",
     image: "./search-engine.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ohadNave/Search-Engine-App",
   },
   {
     title: "Python",
     subtitle: "Final Project - OCL Recommendation System",
     description:"Data science project, includes parsing plenty of raw data, extract complex features and perform classification experiments",
     image: "./OCL-gif.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/amitthewolf/OCLRecommendation",
   },
 ];
 
@@ -49,11 +49,12 @@ export const timelineElements = [
   {
     role: "Software Developer Internship",
     company: "Ribbon Communications",
-    date: "03/2021 - 08/2021",
+    date: "2021",
     desc: ["Responsible for developing automation framework",
           "Work independently and solve complex problems.",
           "Design & implement a generic template for users input.",
-          "Allowing to automate Rest API calls and SSH commands."],
+          "Allowing to automate Rest API calls and SSH commands.",
+          "Technologies : Java || Spring || Hibernate || Swagger"],
     icon: faBriefcase
   },
   {

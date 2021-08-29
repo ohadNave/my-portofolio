@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Timeline from "./components/Timeline";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
     <Timeline/>
     <Projects />
     <Skills />
+    <Contact/>
   </main>
   );
 }
