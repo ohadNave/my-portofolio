@@ -68,7 +68,7 @@ export const timelineElements = [
     role: "Student",
     company: "Ben Gurion University",
     date: "2017-2021",
-    desc: ["Software & Information Systems Engineering","GPA 80"],
+    desc: ["Software & Information Systems Engineering","GPA 81"],
     icon: faGraduationCap
   },
   {
